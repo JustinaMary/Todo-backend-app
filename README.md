@@ -1,4 +1,4 @@
-# Backend application for Todo product
+# Todo backend application
 
 **Tools used**
 
