@@ -7,7 +7,7 @@
 
 **Express** - As per their website, Express is a "Fast, unopinionated, minimalist web framework for Node.js", that we're going to be building our Todo list application on.
 
-**PostgreSQ** - This is a powerful open-source database that we're going to use to store our Todos.
+**PostgreSQL** - This is a powerful open-source database that we're going to use to store our Todos.
 
 **Sequelize**- In addition, we're going to use Sequelize, which is a database ORM that will interface with the Postgres database for us.
 
